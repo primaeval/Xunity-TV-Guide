@@ -1,2 +1,1 @@
-# Xunity-TV-Guide
-Guide for XunityTalk
+# Xunity TV Guide Repo
