@@ -1,5 +1,5 @@
 <addons>
-<addon id="script.tvguide.xunity" name="Xunity TV Guide" version="1.0.0" provider-name="Encode">
+<addon id="script.tvguide.xunity" name="Xunity TV Guide" version="1.0.1" provider-name="Encode">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 		<import addon="script.module.simplejson" version="3.3.0"/>
@@ -70,19 +70,5 @@
         <website></website>
 		<email></email>
 	</extension>
-<addon id="plugin.video.streamtvbox" name="StreamTVBox" version="4.4.0" provider-name="XunityTalk">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="plugin.video.footballreplays" version="0.0.1"/>
-    <import addon="script.module.urlresolver" version="0.0.1"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Streamtvbox Streams</summary>
-    <description lang="en">Stream all of your favourites live sports,movies and tv from StreamTVBox Streams</description>
-    <platform>all</platform>
-  </extension>
 </addon>
 </addons>
