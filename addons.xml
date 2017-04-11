@@ -1,5 +1,5 @@
 <addons>
-<addon id="script.tvguide.xunity" name="Xunity TV Guide" version="1.0.5" provider-name="Encode">
+<addon id="script.tvguide.xunity" name="Xunity TV Guide" version="1.0.6" provider-name="Encode">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 		<import addon="script.module.simplejson" version="3.3.0"/>
