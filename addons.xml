@@ -15,12 +15,12 @@
     </extension>
     <extension point="xbmc.service" library="service.py" start="login"/>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="be">Xunity TV Guide allows you to combine your favourit XunityTalk addons with a fully working EPG</summary>
+		<summary lang="be">Xunity TV Guide allows you to combine your favourite XunityTalk addons with a fully working EPG</summary>
 		<summary lang="ca">Guia de TV amb suport de XMLTV i flux de dades</summary>
 		<summary lang="da">Xunity TV Guide allows you to combine your favourit XunityTalk addons with a fully working EPG</summary>
 		<summary lang="de">Renegades TV erlaubt es Ihre Live TV Plugins mit einem TV Guide zu kombinieren</summary>
 		<summary lang="el">ÃŽÅ¸ÃŽÂ´ÃŽÂ·ÃŽÂ³ÃÅ’Ãâ€š ÃŽÂ¤ÃŽÂ·ÃŽÂ»ÃŽÂµÃÅ’ÃÂÃŽÂ±ÃÆ’ÃŽÂ·Ãâ€š ÃŽÂ¼ÃŽÂµ XMLTV ÃŽÂºÃŽÂ±ÃŽÂ¹ Ãâ€¦Ãâ‚¬ÃŽÂ¿ÃÆ’Ãâ€žÃŽÂ®ÃÂÃŽÂ¹ÃŽÂ¾ÃŽÂ· ÃÂÃŽÂ¿ÃÅ½ÃŽÂ½</summary>
-		<summary lang="en">Xunity TV Guide allows you to combine your favourit XunityTalk addons with a fully working EPG</summary>
+		<summary lang="en">Xunity TV Guide allows you to combine your favourite XunityTalk addons with a fully working EPG</summary>
 		<summary lang="en_US">Xunity TV Guide allows you to combine your favourit XunityTalk addons with a fully working EPG</summary>
 		<summary lang="es">TV Guide con XMLTV y soporte para streaming</summary>
 		<summary lang="fr">Guide TV avec support du XMLTV et du streaming</summary>
@@ -43,7 +43,7 @@
 		<description lang="da">TV Guide med XMLTV og streaming support</description>
 		<description lang="de">Renegades TV erlaubt es Ihre Live TV Plugins mit einem TV Guide zu kombinieren</description>
 		<description lang="el">ÃŽÅ¸ÃŽÂ´ÃŽÂ·ÃŽÂ³ÃÅ’Ãâ€š ÃŽÂ¤ÃŽÂ·ÃŽÂ»ÃŽÂµÃÅ’ÃÂÃŽÂ±ÃÆ’ÃŽÂ·Ãâ€š ÃŽÂ¼ÃŽÂµ XMLTV ÃŽÂºÃŽÂ±ÃŽÂ¹ Ãâ€¦Ãâ‚¬ÃŽÂ¿ÃÆ’Ãâ€žÃŽÂ®ÃÂÃŽÂ¹ÃŽÂ¾ÃŽÂ· ÃÂÃŽÂ¿ÃÅ½ÃŽÂ½</description>
-		<description lang="en">Xunity TV Guide allows you to combine your favourit XunityTalk addons with a fully working EPG</description>
+		<description lang="en">Xunity TV Guide allows you to combine your favourite XunityTalk addons with a fully working EPG</description>
 		<description lang="en_US">TXunity TV Guide allows you to combine your favourit XunityTalk addons with a fully working EPG</description>
 		<description lang="es">TV Guide con XMLTV y soporte para streaming</description>
 		<description lang="fr">Guide TV avec support du XMLTV et du streaming</description>
